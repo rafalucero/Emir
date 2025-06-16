@@ -82,7 +82,7 @@ ascii_art = pyfiglet.figlet_format("Instagram ", font="small")
 
 
 print(f"{Fore.YELLOW}{ascii_art}")
-print(f"{Fore.CYAN}Developed by @WandaNaraPoposuKocaman")
+print(f"{Fore.CYAN}Developed by @RusyaBaskan")
 print("")
 
 ID = input("- İD GİR: ")
@@ -350,7 +350,7 @@ def InfoAcc(username, domain):
 • 𝗟𝗜𝗡𝗞: 
  https://www.instagram.com/{username}
 «-------------𝐑𝐀𝐘𝐐-------------»
- 𝗕𝘆~ @WandaNaraPoposuKocaman °
+ 𝗕𝘆~ @RusyaBaskan
 """
     with open('tonyMetaHunting.txt', 'a') as f:
         f.write(info_text + "\n")
